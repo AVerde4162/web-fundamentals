@@ -1,0 +1,15 @@
+Hello OWlrd
+
+First assignment 
+
+
+what is Git and Github
+
+Git is a version of control software.version control systems allow you to manage and keep track of your source code history.
+Github is a cloud-based hosting service that lets you share Git respositories
+
+vs conde comes with a git GUI - graphical user interface
+
+1. install git
+2. create account
+3.
